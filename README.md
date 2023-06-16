@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -105,6 +106,7 @@ img.emoji {
 <figure class="wp-block-image size-full is-resized wp-duotone-unset-1"><img decoding="async" src="https://priyaa10.files.wordpress.com/2023/06/2-1.jpg" alt="" class="wp-image-15" width="582" height="295" /></figure>
 </body>
 </html>
+```
 
 
 ## OUTPUT
